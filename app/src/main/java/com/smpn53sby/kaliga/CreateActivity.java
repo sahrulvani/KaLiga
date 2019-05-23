@@ -86,6 +86,8 @@ public class CreateActivity extends AppCompatActivity {
         edttahun = findViewById(R.id.edt_tahun);
         edtisbn = findViewById(R.id.edt_isbn);
 
+        Toast.makeText(this, "Test", Toast.LENGTH_SHORT).show();
+
         SelectImage = findViewById(R.id.image);
 
         progressDialog = new ProgressDialog(CreateActivity.this);

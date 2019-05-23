@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KaLiga</string>
+    <string name="permission_dialog">Accessing Location Permissions required</string>
+    <string name="go_to_permissions_settings">Go to App and enable permissions</string>
+</resources>

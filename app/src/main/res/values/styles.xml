@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColorHint">@color/pressed</item>
+        <item name="android:editTextColor">@android:color/black</item>
+    </style>
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.Light.SearchView">
+        <item name="searchIcon">@drawable/ic_search_black_24dp</item>
+        <item name="searchHintIcon">@null</item>
+        <item name="queryHint">Cari Buku</item>
+        <item name="queryBackground">@color/putih</item>
+        <!--<item name="android:textColorHint">@color/bgImage</item>-->
+        <!--<item name="closeIcon">@drawable/ic_close_black_24dp</item>-->
+    </style>
+
+</resources>

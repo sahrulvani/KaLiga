@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407166899598",
+    "firebase_url": "https://kaliga-d10e7.firebaseio.com",
+    "project_id": "kaliga-d10e7",
+    "storage_bucket": "kaliga-d10e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407166899598:android:31bfd092679918dd",
+        "android_client_info": {
+          "package_name": "com.smpn53sby.kaliga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407166899598-60fja78cgkchhalbrhnv87qjeivif593.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smpn53sby.kaliga",
+            "certificate_hash": "3fba4c5a9df740e5c18282fba9c0bc2d81f6c5fd"
+          }
+        },
+        {
+          "client_id": "407166899598-g73bjmq6o7pl5kn89sq0d0rjdd9hs3gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ftpnwC19pZbJHFh6XAe3NAsfRMnh3Y8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407166899598-g73bjmq6o7pl5kn89sq0d0rjdd9hs3gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

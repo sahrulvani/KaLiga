@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#094c2d</color>
+    <color name="colorPrimaryDark">#00512c</color>
+    <color name="colorAccent">#00542a</color>
+    <color name="colorAccent1">#15d531</color>
+    <color name="Black">#000000</color>
+    <color name="putih">#ffffff</color>
+    <color name="ijobutton">#0a9265</color>
+    <color name="pressed">#c4c9c7</color>
+</resources>
